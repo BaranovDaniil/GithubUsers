@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubUsers</string>
+    <string name="avatar_of_user">Avatar of user</string>
+    <string name="type_of_user">Type of user</string>
+    <string name="login_of_user">Login of user</string>
+    <string name="id_of_user">Id of user</string>
+    <string name="id">ID: %1$s</string>
+</resources>
